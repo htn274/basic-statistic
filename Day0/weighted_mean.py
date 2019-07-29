@@ -11,4 +11,4 @@ for i in range(n):
     weighted_mean += value[i] * weight[i]
 
 weighted_mean /= sum(weight)
-print(weighted_mean)
+print("{:.1f}".format(weighted_mean))
