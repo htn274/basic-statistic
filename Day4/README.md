@@ -1,0 +1,3 @@
+# Binomial Distribution
+
+# Geomatric Distribution
