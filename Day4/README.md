@@ -1,3 +1,8 @@
+- [Binominal Experiment](#Binominal-Experiment)
+- [Binomial Distribution](#Binomial-Distribution)
+- [Negative Binominal Experiment](#Negative-Binominal-Experiment)
+- [Geomatric Distribution](#Geomatric-Distribution)
+
 # Binominal Experiment
 
 Binominal experiment is a statiscal experiment has the following properties:
